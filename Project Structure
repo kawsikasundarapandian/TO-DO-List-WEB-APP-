@@ -1,0 +1,54 @@
+to-do-list-web-app/
+│
+├── README.md             # Project overview and usage instructions
+├── LICENSE               # License file (MIT recommended)
+├── .gitignore            # Ignore unnecessary files
+│
+├── index.html            # Main HTML file
+├── style.css             # Styling for the app
+├── script.js             # Core logic (add, delete, edit tasks)
+│
+├── assets/               # Images, icons, etc.
+│   ├── favicon.png
+│   └── icons/
+│
+├── docs/                 # Documentation (optional)
+│   └── design.md         # Design notes
+│
+└── tests/                # Automated tests (optional)
+    └── test.js
+🛠 Features
+✅ Add new tasks
+
+✏️ Edit existing tasks
+
+🗑️ Delete tasks
+
+✔️ Mark tasks as completed
+
+💾 Save tasks using localStorage (persistent after refresh)
+
+📱 Responsive design for mobile & desktop
+
+🚀 Setup & Usage
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/to-do-list-web-app.git
+cd to-do-list-web-app
+Open index.html in any modern browser.
+
+Start adding your tasks!
+
+📌 Future Improvements
+Add categories and due dates
+
+Dark mode toggle
+
+Cloud sync with backend (Node.js / Firebase)
+
+Drag & drop task reordering
+
+📄 License
+This project is licensed under the MIT License.
